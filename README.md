@@ -1,4 +1,4 @@
-# impractical-python-projects
+# Impractical Python Projects
 
 Python projects based on Lee Vaughan's book
 
@@ -8,3 +8,4 @@ Python projects based on Lee Vaughan's book
 4. Palindromegram: finding palindrome and palingram in dictionary
 5. Anagrams: anagram finder and anagram phrase constructor
 6. Finding Voldemort: reduce anagrams produced by tmvoordle to manageable number
+7. Route Transposition Cipher Decoder: decoding the route tranposition cipher
