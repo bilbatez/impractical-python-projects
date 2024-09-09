@@ -11,6 +11,7 @@ From the Book:
 5. Anagrams: anagram finder and anagram phrase constructor
 6. Finding Voldemort: reduce anagrams produced by tmvoordle to manageable number
 7. Route Transposition Cipher Decoder: decoding the route tranposition cipher
+8. Rail Fence Cipher: encrypt and decrypting messages using the rail fence cipher
 
 Random Things:
 
